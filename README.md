@@ -2,7 +2,7 @@
 
 A web application built with Laravel that allows users to create, manage, and share recipes. This application provides a platform for food enthusiasts to document and share their favorite recipes with the community.
 
-# Screenshots
+## Screenshots
 
 | <img src="./screenshots/Screenshot from 2025-05-26 11-32-45.png"> | <img src="./screenshots/Screenshot from 2025-05-26 11-27-56.png"> |
 |---|---|
